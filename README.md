@@ -7,3 +7,5 @@
 
 ###### Quaora:
  - [Everyone is telling me that they earn a lot of money on Amazon. Is it really so easy to sell product there?](https://www.quora.com/Everyone-is-telling-me-that-they-earn-a-lot-of-money-on-Amazon-Is-it-really-so-easy-to-sell-product-there)
+
+###### [Alibaba API](https://open.alibaba.com/us/portal/resourceDetail?articleId=102691&categoryId=101734)
