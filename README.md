@@ -14,3 +14,4 @@
 ###### Customs brokerage
  - A local one in KW [Davidson Custom Brokers](http://www.custombroker.cc/index.html)
  - A big one with everything online [clearit.ca](http://clearit.ca)
+ - List of all the ones licensed with CBSA - [list](http://www.cbsa-asfc.gc.ca/services/cb-cd/cb-cd-eng.html)
